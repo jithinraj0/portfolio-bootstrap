@@ -50,7 +50,8 @@
 /* Banner Area */
 
 .site-main {
-  padding: 0 2rem 0 5rem;
+  /* padding: 0 2rem 0 5rem; */
+  padding: unset;
 }
 
 .site-main .site-banner .site-title h3 {
@@ -243,7 +244,7 @@
 }
 
 .site-main .project-area .project-title h1 {
-  font-size: 85px;
+  font-size: 77px;
   text-align: start;
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke: 5px white;
@@ -372,7 +373,7 @@ section .section-title {
 } */
 #footer h5 {
   padding-left: 10px;
-  border-left: 3px solid #eeeeee;
+  /* border-left: 3px solid #eeeeee; */
   padding-bottom: 6px;
   margin-bottom: 20px;
   color: #ffffff;
