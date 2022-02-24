@@ -495,7 +495,7 @@ table {
 }
 
 /* custom styles start here */
-.stepper-li{
+.stepper-li {
   list-style: circle;
 }
 .steps {
@@ -894,24 +894,34 @@ h3 {
   background-color: #525a63;
 }
 
-
-.space-style{
+.space-style {
   padding-bottom: 15%;
 }
-.posi-style{
+.posi-style {
   display: flex;
   justify-content: end;
 }
-.res-img{
+.res-img {
 }
-.res-dir{}
-@media screen and (max-width:990px){
-  .res-img{
-display: flex;
-justify-content: center;
+.res-dir {
+}
+@media screen and (max-width: 990px) {
+  .res-img {
+    display: flex;
+    justify-content: center;
   }
-  .res-dir{
+  .res-dir {
     display: flex;
     flex-direction: column-reverse;
   }
+}
+
+/* poker */
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: image();
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
