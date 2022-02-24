@@ -511,11 +511,13 @@ table {
 .dates {
   display: flex;
   flex-direction: column;
+  width: 13%;
 }
 
 .time {
   position: relative;
   padding: 0 1rem;
+  word-break: break-all;
 }
 
 .time::after {
