@@ -891,3 +891,13 @@ h3 {
 .download-content ul li a.play-store {
   background-color: #525a63;
 }
+
+/* poker */
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: image();
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
