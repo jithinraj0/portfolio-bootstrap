@@ -495,7 +495,9 @@ table {
 }
 
 /* custom styles start here */
-
+.stepper-li{
+  list-style: circle;
+}
 .steps {
   margin: 0 auto;
   padding: 1rem 0;
@@ -890,4 +892,25 @@ h3 {
 
 .download-content ul li a.play-store {
   background-color: #525a63;
+}
+
+.space-style{
+  padding-bottom: 15%;
+}
+.posi-style{
+  display: flex;
+  justify-content: end;
+}
+.res-img{
+}
+.res-dir{}
+@media screen and (max-width:990px){
+  .res-img{
+display: flex;
+justify-content: center;
+  }
+  .res-dir{
+    display: flex;
+    flex-direction: column-reverse;
+  }
 }
