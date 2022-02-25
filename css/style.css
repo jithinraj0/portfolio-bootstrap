@@ -10,7 +10,7 @@
 /* start navigation */
 
 * {
-  background-color: #252525;
+  background-color: #161515;
   color: #ffffff;
   font-family: "Montserrat", sans-serif;
 }
@@ -196,7 +196,7 @@
 /* Services Area */
 
 .site-main .services-area {
-  padding: 7rem 2rem;
+  padding: 0 2rem;
 }
 
 .site-main .services-area .services-title {
@@ -359,12 +359,12 @@
 /* Footer */
 @import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
 section {
-  padding: 60px 0;
+  padding: 20px 0;
 }
 
 section .section-title {
   text-align: center;
-  color: #007b5e;
+  color: #17a2b8;
   margin-bottom: 50px;
   text-transform: uppercase;
 }
@@ -791,7 +791,7 @@ h3 {
   position: relative;
   width: 394px;
   height: 394px;
-  background-color: #0898e7;
+  background-color: #bdbdbd;
   border-radius: 50%;
 }
 
@@ -811,7 +811,7 @@ h3 {
   top: 0;
   left: 0;
   border-radius: 50%;
-  border: 2px solid #0898e7;
+  border: 2px solid #bdbdbd;
   border-top-color: transparent;
   border-right-color: transparent;
   transform: scale(1.1) rotate(25deg);
