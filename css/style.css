@@ -14,7 +14,7 @@
   color: #ffffff;
   font-family: "Montserrat", sans-serif;
 }
-.navbar-light .navbar-nav .active > .nav-link {
+.navbar-light .navbar-nav .active  .nav-link {
   color: #a1e5d5 !important;
 }
 
