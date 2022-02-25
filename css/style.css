@@ -14,6 +14,9 @@
   color: #ffffff;
   font-family: "Montserrat", sans-serif;
 }
+.navbar-light .navbar-nav .active > .nav-link {
+  color: #a1e5d5 !important;
+}
 
 .header_area .main-menu .navbar .navbar-brand {
   padding: 0 2rem 0 5rem;
